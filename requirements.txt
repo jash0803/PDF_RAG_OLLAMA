@@ -9,3 +9,4 @@ streamlit-chat
 unstructured
 sentence_transformers
 langchain-community
+unstructured[local-inference]
