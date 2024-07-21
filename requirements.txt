@@ -1,0 +1,10 @@
+faiss-cpu
+huggingface-hub
+langchain
+numpy
+ollama
+pandas
+streamlit
+streamlit-chat
+unstructured
+sentence_transformers
