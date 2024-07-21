@@ -8,3 +8,4 @@ streamlit
 streamlit-chat
 unstructured
 sentence_transformers
+langchain-community
